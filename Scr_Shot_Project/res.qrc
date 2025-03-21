@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asserts/window-icon.png</file>
+    </qresource>
+</RCC>
